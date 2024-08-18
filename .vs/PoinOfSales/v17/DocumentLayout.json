@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Source code\\poinofsales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmuser.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmstocks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmstocks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmreport.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmreceipt.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|D:\\Projects\\Source code\\poinofsales\\poinofsales\\frmpos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmpos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmcategory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmcategory.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmpos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmpos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmfinditems.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmfinditems.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\frmliststocks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\frmliststocks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|D:\\Projects\\Source code\\poinofsales\\poinofsales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|d:\\projects\\source code\\poinofsales\\poinofsales\\include\\janobe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\include\\janobe.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|D:\\Projects\\Source code\\poinofsales\\poinofsales\\include\\loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\include\\loading.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|D:\\Projects\\Source code\\poinofsales\\poinofsales\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{545B1F12-9458-4113-A13E-6C9D0723C446}|PoinOfSales\\PoinOfSales.vbproj|solutionrelative:poinofsales\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm1.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\LoginForm1.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\LoginForm1.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\LoginForm1.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\LoginForm1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:49:13.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUser.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmUser.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmUser.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmUser.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmUser.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:49:11.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStocks.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmStocks.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmStocks.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmStocks.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmStocks.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:49:09.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmReport.vb",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReport.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmReport.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReport.vb",
+              "RelativeToolTip": "PoinOfSales\\frmReport.vb",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwBQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:48:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmReport.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReport.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmReport.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReport.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmReport.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:48:32.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmReceipt.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReceipt.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmReceipt.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmReceipt.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmReceipt.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:48:25.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmListStocks.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmListStocks.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmListStocks.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmListStocks.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmListStocks.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:45:26.155Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmPOS.vb",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmPOS.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmPOS.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmPOS.vb",
+              "RelativeToolTip": "PoinOfSales\\frmPOS.vb",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAUwHMBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:44:48.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmFindItems.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmFindItems.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmFindItems.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmFindItems.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmFindItems.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:44:34.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCategory.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmCategory.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmCategory.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmCategory.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmCategory.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:44:30.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\Form1.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\Form1.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\Form1.vb",
+              "RelativeToolTip": "PoinOfSales\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-17T13:44:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmPOS.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmPOS.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\frmPOS.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\frmPOS.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\frmPOS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-15T07:18:22.123Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\Form1.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\Form1.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\Form1.vb [Design]",
+              "RelativeToolTip": "PoinOfSales\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-15T07:18:00.203Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "loading.vb",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\include\\loading.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\include\\loading.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\include\\loading.vb",
+              "RelativeToolTip": "PoinOfSales\\include\\loading.vb",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-15T07:17:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "janobe.vb",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\include\\janobe.vb",
+              "RelativeDocumentMoniker": "PoinOfSales\\include\\janobe.vb",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\include\\janobe.vb",
+              "RelativeToolTip": "PoinOfSales\\include\\janobe.vb",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwOkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-08-15T07:17:50.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\App.config",
+              "RelativeDocumentMoniker": "PoinOfSales\\App.config",
+              "ToolTip": "D:\\Projects\\Source code\\poinofsales\\PoinOfSales\\App.config",
+              "RelativeToolTip": "PoinOfSales\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-15T07:15:24.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
